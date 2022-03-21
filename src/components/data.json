@@ -1,0 +1,127 @@
+
+
+[
+    {
+        "id":1,
+        "name": "Mahou 5 estrellas",
+        "img": "https://i.pinimg.com/originals/a6/6e/d3/a66ed35aeb85b76026da23e441ad57af.png",
+        "style": "Pale Lager",
+        "flag": "https://cdn-icons-png.flaticon.com/512/197/197593.png", 
+        "abv": 5.5,
+        "price": 0.65,
+        "description":"cerveza Mahou Cinco Estrellas tiene un sabor muy grande! Fue nuestra primera cerveza especial, con maestría cervecera. Una Pale Lager hecha para gente con sabor, y aunque la primera se fabricara en 1969, es una cerveza que sabe a un montón de cosas nuevas."
+    },
+    {
+        "id":2,
+        "name": "Mahou Clásica",
+        "img": "https://www.rentabilibar.es/img/productos/mahou-clasica/botella-frente.png",
+        "style": "Pale Lager", 
+        "flag": "https://cdn-icons-png.flaticon.com/512/197/197593.png",
+        "abv": 4.8,
+        "price": 0.55,
+        "description":"cerveza Mahou Cinco Estrellas tiene un sabor muy grande! Fue nuestra primera cerveza especial, con maestría cervecera. Una Pale Lager hecha para gente con sabor, y aunque la primera se fabricara en 1969, es una cerveza que sabe a un montón de cosas nuevas."
+    },
+    {
+        "id":3,
+        "name": "Alhambra Reserva 1925",
+        "img": "https://www.loscervecistas.es/wp-content/uploads/2016/09/alhambra-1925.png",
+        "style": "Amber Lager", 
+        "flag": "https://cdn-icons-png.flaticon.com/512/197/197593.png",
+        "abv": 6.4,
+        "price": 1.30,
+        "description": "Los maestros artesanos han puesto el extra en esta cerveza de cuerpazo y sabor intenso. Podrías reconocer una Reserva 1925 con los ojos cerrados, no necesita etiquetas. ¡Ojo!, te enganchará al primer sorbo."
+    },
+    {
+        "id":4,
+        "name": " Alhambra Reserva Roja",
+        "img": "https://www.bodecall.com/images/stories/virtuemart/product/alhambra-roja.png",
+        "style": "Bock", 
+        "flag": "https://cdn-icons-png.flaticon.com/512/197/197593.png",
+        "abv": 7.2,
+        "price": 1.40,
+        "description": "Se inspira en las recetas del estilo Bock, consiguiendo una cerveza de tonos rojizos y de alta graduación, con un punto extra de intensidad y llena de matices, con su carácter único español. ¡Perfecta para adentrarse en el mundo del maridaje!"
+    },
+    {
+        "id":5,
+        "name": "Budweiser ",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/89/Botella-de-budweiser-cerveza-colombiana.png",
+        "style": "American Lager", 
+        "flag": "https://cdn-icons-png.flaticon.com/512/197/197484.png",
+        "abv": 4.8,
+        "price": 1.20,
+        "description": "Budweiser está elaborada a través de un complejo y largo proceso para conseguir una cerveza de calidad excepcional, con un sabor equilibrado, aromas a miel y cítricos y de color dorado y gusto refrescante."  
+    },
+    {
+        "id":6,
+        "name": "Corona",
+        "img": "https://i.pinimg.com/originals/75/53/7b/75537b1e0c3256caf5a83e7a183cb82b.png",
+        "style": "Light Lager", 
+        "flag": "https://cdn-icons-png.flaticon.com/512/197/197397.png",
+        "abv": 4.5,
+        "price": 1.25,
+        "description": "Disfruta de Corona, una cerveza de color claro y transparente de gran calidad, te gustará todavía más si la bebes directamente de la botella, con un gajo de lima."
+    },
+    {
+        "id":7,
+        "name": "San Miguel Especial",
+        "img": "https://www.rentabilibar.es/img/productos/san-miguel-especial/botella-frente.png",
+        "style": "Pale Lager", 
+        "flag": "https://cdn-icons-png.flaticon.com/512/197/197593.png",
+        "abv": 5.4,
+        "price": 0.52,
+        "description": "En Filipinas, en 1890, salía a la luz una cerveza especial que ha recorrido el mundo, gracias a su frescura y ese espíritu aventurero que la caracteriza. Y a partir de ahí, todo fue innovar y descubrir nuevas experiencias cerveceras."
+    },
+    {
+        "id":8,
+        "name": "Cerveza 1906 Reserva Especial",
+        "img": "https://www.mantequeriaandres.com/tienda/2470-large_default/cerveza-estrella-de-galicia-1906-pack-de-6.jpg",
+        "style": "Helles Bock", 
+        "flag": "https://cdn-icons-png.flaticon.com/512/197/197593.png",
+        "abv": 6.5,
+        "price": 1.25,
+        "description": "Elaborada a partir de un mosto específicos, en la fábrica de Hijos de Rivera, en A Coruña. La cerveza 1906 Reserva Especial cuenta con uno de los períodos de maduración más largos entre las cervezas lager nacionales."
+    },
+    {
+        "id":9,
+        "name": "Cerveza 1906 Red Vintage",
+        "img": "https://estrellagalicia.es/tienda/wp-content/uploads/2020/10/img-individual-red-vintage.png",
+        "style": "Doppelbock",
+        "flag": "https://cdn-icons-png.flaticon.com/512/197/197593.png",
+        "abv": 8.0,
+        "price": 1.25,
+        "description": "Es el resultado de la recuperación de una receta histórica de Hijos de Rivera, la Especial Extra (La Colorada). Su elaboración, en nuestro único dentro productivo, sigue nuestras pautas tradicionales: las mejores materias primas, un mosto específico, una guarda prolongada."
+    },
+    {
+        "id":10,
+        "name": "Estrella Damm",
+        "img": "https://static.damm.com/sites/default/files/config-page/estrella_header_logo/estrella-damm_0.png",
+        "style": "Pilsner Lager",
+        "flag": "https://cdn-icons-png.flaticon.com/512/197/197593.png",
+        "abv": 5.4,
+        "price": 0.80,
+        "description": "Estrella Damm se elabora según la receta original de 1876 resultado de la combinación de ingredientes mediterráneos, provenientes de agricultores locales. 100% ingredientes naturales. Sólo agua, malta de cebada, arroz y lúpulo. Sin aditivos, ni conservantes, ni sulfitos añadidos."
+    },
+    {
+        "id":11,
+        "name": "Estrella Galicia",
+        "img": "https://estrellagalicia.es/wp-content/uploads/2017/01/botella-estrella-galicia-especial.png",
+        "style": "Lager Especial",
+        "flag": "https://cdn-icons-png.flaticon.com/512/197/197593.png",
+        "abv": 5.5,
+        "price": 0.80,
+        "description": "Cerveza de color dorado brillante que parte de una selección de maltas y lúpulo especialmente amargos y su proceso de cocción, fermentación y maduración transcurre a lo largo de más de 20 días. Ello hace que esta cerveza tenga un agradable y característico sabor lupulado"   
+    },
+    {
+        "id":12,
+        "name": "El Aguila Sin Filtrar",
+        "img": "https://www.bodecall.com/images/stories/virtuemart/product/cerveza-el-aguila-sin-filtrar.png",
+        "style": "Lager",
+        "flag": "https://cdn-icons-png.flaticon.com/512/197/197593.png", 
+        "abv": 5.5,
+        "price": 0.89,
+        "description": "es una cerveza que tiene mayor cuerpo, mayor intensidad de sabor y mayor turbidez. Eliminando el proceso de filtración, se mantiene toda la levadura dentro de la cerveza. El resultado es que puedes disfrutar de la cerveza como recién salida del tanque de fermentación."
+    }
+    
+
+]
+    
