@@ -1,0 +1,34 @@
+body{
+    background-image: url("https://www.teahub.io/photos/full/31-313192_wallpaper-of-alcohol-food-beer-drink-background-mesa.jpg");
+    background-repeat: no-repeat;
+    background-size:auto;
+    background-position:center;
+    background-color: black;
+    
+
+}
+*{
+    font-size: large;
+    
+    line-height: 2;
+
+}
+.login-container{
+    
+    color: blanchedalmond;
+    text-align: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+button{
+    border-radius: 20px;
+    background-color: rgb(16, 96, 126) ;
+    border-style: none;
+    width:150px;
+    color:white;
+    margin: 10px;
+}
+

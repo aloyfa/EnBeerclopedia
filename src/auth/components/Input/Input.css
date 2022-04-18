@@ -1,0 +1,30 @@
+form{
+    left: 50%;
+    top: 50%;
+    width: 400px;
+}
+
+.regular-style{
+    border-radius: 20px;
+    border-style: none;
+    background-color: white;
+    width: 350px;
+    outline: none;
+    box-sizing: border-box;
+    padding-left: 10px;
+}
+
+.input-error {
+    border-radius: 20px;
+    border-style: solid;
+    background-color: rosybrown;
+    width: 350px;
+    border-color: red;
+}
+.input-error::placeholder{
+    color:red;
+}
+
+.label-error{
+    color:red;
+}

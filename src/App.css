@@ -1,5 +1,9 @@
  .App {
   text-align: center;
+  background-color: rgb(241, 147, 23);
+}
+body{
+  
 }
 
 .beerLogo {
@@ -72,4 +76,17 @@
 }
 #text-back {
   height:260px;
+}
+.cart-container{
+  border-style: solid;
+  border-radius: 10px;
+  margin:1px;
+  color: black;
+  position: sticky;
+  top:10px
+}
+.color-nav{
+  background-color:rgb(54, 114, 54);
+  position: sticky;
+  top:0
 }

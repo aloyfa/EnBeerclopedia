@@ -1,11 +1,23 @@
 import React from 'react'
+import {CartProvider} from 'react-use-cart'
+import Store from './Store'
+import Cart from './Cart'
+import {Container, Row, Col} from 'react-bootstrap'
+import './Home.css'
 
-const Home = () => {
+
+function Home() {
   return (
-    <div>
-      <h1>Welcome to the store</h1>
-    </div>
-  )
+    <CartProvider>
+      <Container>
+      <Row>
+        <Col><Store/></Col>
+        <Col sm={4}><Cart fixed='top'/></Col>
+      </Row>
+      </Container>
+    </CartProvider>
+  );
 }
 
 export default Home
+
