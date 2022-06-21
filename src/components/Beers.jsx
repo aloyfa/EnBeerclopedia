@@ -29,7 +29,7 @@ const Beers = () => {
                   <img className="card-img" src={item.image} alt=""/> 
                   <h2 className="card-title">{item.name}</h2>
                   <hr/>
-                  <p>ABV: {item.abv}% </p>
+                  <p>ABV:{item.abv}% </p>
                   <p>a</p>
                   <p>Style: {item.style} </p>
                   <p>Price: €{item.price} </p>
